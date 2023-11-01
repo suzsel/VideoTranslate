@@ -1,0 +1,8 @@
+-Using Whisper to transcirbe automatically from input           - DONE
+-Translate text to target                                       - idk how to auotomate process free, currently deepl by hand but needed split.py first
+-Text2speech and cloning from translated text                   - Only with Ukranian
+-Optional cloning voice via so-vits-svc                         - 
+
+// https://github.com/espnet/espnet
+// https://github.com/voicepaw/so-vits-svc-fork
+

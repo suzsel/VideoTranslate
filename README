@@ -1,0 +1,23 @@
+#Widel
+Widel is an app for audio/video translation with voice remaining.
+
+##Installation
+
+'''bash
+git clone https://github.com/suzsel/VideoTranslate.git
+pip install -r requirements.txt
+'''
+
+##Usage
+list of whisper models: https://github.com/openai/whisper
+
+train voice models run:
+
+'''bash
+run_train.ps
+''' 
+
+'''bash
+python widel.py <model_whisper> <input_audio>
+'''
+
